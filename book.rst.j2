@@ -1,0 +1,18 @@
+{{ book.title }} - {{ book.authors[0].name }}
+======================================
+
+.. panels::
+
+   {% if book.covers %}
+   .. image:: https://covers.openlibrary.org/b/id/{{book.covers[0]}}-L.jpg
+      :alt: cover
+   
+   ---
+   {% endif %}
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: {{ book.isbn_10 }}
+   - ISBN 13: {{ book.isbn_13 }}
+   - Editeur: {{ book.publishers }}
