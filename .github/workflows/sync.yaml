@@ -1,0 +1,23 @@
+name: Sync source from spreadsheet
+on:
+  schedule:
+    - cron: '30 12 * * *'
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v4
+      - name: Install dependencies
+        run: "pip install -r requirements.txt"
+      - name: Set GCP service account
+        run: 'mkdir -p ~/.config/gspreadecho && echo "$GCP_SERVICE_ACCOUNT" > ~/.config/gspread/service_account.json'
+        env:
+          GCP_SERVICE_ACCOUNT: ${{ secrets.GCP_SERVICE_ACCOUNT }}
+      - name: Sync .rst files
+        run: "python bookshelf.py --fetch --render"
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: 'source'
+          default_author: github_actions
+          message: 'Syncing from spreadsheets'
