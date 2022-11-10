@@ -1,0 +1,8 @@
+attrs
+cattrs
+docopt
+requests
+sphinx
+sphinx-immaterial
+sphinx-panels
+gspread
