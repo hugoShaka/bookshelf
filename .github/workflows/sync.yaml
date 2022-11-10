@@ -1,5 +1,6 @@
 name: Sync source from spreadsheet
 on:
+  workflow_dispatch:
   schedule:
     - cron: '30 12 * * *'
 jobs:
