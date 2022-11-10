@@ -12,7 +12,7 @@ jobs:
       - name: Install dependencies
         run: "pip install -r requirements.txt"
       - name: Set GCP service account
-        run: 'mkdir -p ~/.config/gspreadecho && echo "$GCP_SERVICE_ACCOUNT" > ~/.config/gspread/service_account.json'
+        run: 'mkdir -p ~/.config/gspread && echo "$GCP_SERVICE_ACCOUNT" > ~/.config/gspread/service_account.json'
         env:
           GCP_SERVICE_ACCOUNT: ${{ secrets.GCP_SERVICE_ACCOUNT }}
       - name: Sync .rst files
