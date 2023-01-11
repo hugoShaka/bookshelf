@@ -1,0 +1,18 @@
+Au Bonheur Des Ogres - Daniel Pennac
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/968375-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2070403696']
+   - ISBN 13: ['9782070403691']
+   - Editeur: ['Folio']

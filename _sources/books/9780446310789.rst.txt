@@ -1,0 +1,18 @@
+To Kill a Mockingbird - Harper Lee
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/8410668-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0446310786']
+   - ISBN 13: ['9780446310789']
+   - Editeur: ['Warner Books']

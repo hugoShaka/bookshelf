@@ -1,0 +1,18 @@
+Les Trois Mousquetaires - E. L. James
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/979926-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2266085794']
+   - ISBN 13: ['9782266085793']
+   - Editeur: ['Pocket (FR)']

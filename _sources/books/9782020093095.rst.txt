@@ -1,0 +1,18 @@
+Les ouvriers dans la société française XIXe-XXe siècle - Gérard Noiriel
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/2133073-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['202009309X']
+   - ISBN 13: None
+   - Editeur: ['Editions du Seuil']

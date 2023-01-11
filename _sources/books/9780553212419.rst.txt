@@ -1,0 +1,18 @@
+Sherlock Holmes - None
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/9268111-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0553212419']
+   - ISBN 13: ['9780553212419']
+   - Editeur: ['Bantam Books']

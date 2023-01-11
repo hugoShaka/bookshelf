@@ -1,0 +1,18 @@
+Le banquet - Πλάτων
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/971119-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2080700049']
+   - ISBN 13: ['9782080700049']
+   - Editeur: ['Flammarion']

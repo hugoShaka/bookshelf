@@ -1,0 +1,18 @@
+King Lear - William Shakespeare
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/7420452-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: None
+   - ISBN 13: ['9780140714760']
+   - Editeur: ['Penguin Books']

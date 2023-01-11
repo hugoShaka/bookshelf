@@ -1,0 +1,18 @@
+Mutation - Robin Cook
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/979752-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2266071319']
+   - ISBN 13: ['9782266071314']
+   - Editeur: ['Pocket']

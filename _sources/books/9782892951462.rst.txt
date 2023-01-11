@@ -1,0 +1,18 @@
+L' homme rapaillé - Gaston Miron
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/11670681-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2892951461']
+   - ISBN 13: None
+   - Editeur: ['Typo']

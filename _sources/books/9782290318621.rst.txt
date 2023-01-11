@@ -1,0 +1,18 @@
+Médée - Euripides
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/982075-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2290318620']
+   - ISBN 13: ['9782290318621']
+   - Editeur: ["J'ai lu"]

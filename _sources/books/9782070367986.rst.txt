@@ -1,0 +1,18 @@
+L'Oeuvre au Noir - Marguerite Yourcenar
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/967372-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2070367983']
+   - ISBN 13: ['9782070367986']
+   - Editeur: ['Folio']

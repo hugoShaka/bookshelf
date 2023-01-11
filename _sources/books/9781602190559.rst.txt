@@ -1,0 +1,13 @@
+Good night, Colorado - Adam Gamble
+======================================
+
+.. panels::
+
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: None
+   - ISBN 13: ['9781602190559']
+   - Editeur: ['Our World of Books']

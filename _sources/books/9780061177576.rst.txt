@@ -1,0 +1,18 @@
+post office - Charles Bukowski
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/47042-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0061177571']
+   - ISBN 13: ['9780061177576']
+   - Editeur: ['Ecco']

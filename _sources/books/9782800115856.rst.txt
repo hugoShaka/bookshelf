@@ -1,0 +1,18 @@
+Yoko Tsuno, tome 17  - Roger Leloup
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/987117-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2800115858']
+   - ISBN 13: ['9782800115856']
+   - Editeur: ['Dupuis']

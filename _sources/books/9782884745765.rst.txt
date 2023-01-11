@@ -1,0 +1,18 @@
+Les Faiseurs de ville - Thierry Paquot
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/10584482-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2884745769']
+   - ISBN 13: ['9782884745765']
+   - Editeur: ['INFOLIO']

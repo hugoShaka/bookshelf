@@ -1,0 +1,18 @@
+À rebours - Joris-Karl Huysmans
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/12798402-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['207036898X']
+   - ISBN 13: None
+   - Editeur: ['Gallimard']

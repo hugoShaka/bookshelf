@@ -1,0 +1,18 @@
+Le bonheur conjugal - Léon Tolstoï
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/13120877-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2072734479']
+   - ISBN 13: ['9782072734472']
+   - Editeur: ['GALLIMARD', 'FOLIO']

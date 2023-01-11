@@ -1,0 +1,18 @@
+Asterix Le Fils D'Asterix in French - René Goscinny
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/991164-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2864970112']
+   - ISBN 13: ['9782864970118']
+   - Editeur: ["Hodder Children's Books"]

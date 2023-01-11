@@ -1,0 +1,18 @@
+Le merveilleux voyage de Nils Holgersson à travers la Suède - Selma Lagerlöf
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/2132234-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2012097235']
+   - ISBN 13: ['9782012097230']
+   - Editeur: ['Hachette Littérature']

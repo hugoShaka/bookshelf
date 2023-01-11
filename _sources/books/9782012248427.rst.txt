@@ -1,0 +1,13 @@
+Monsieur Bavard - Roger Hargreaves
+======================================
+
+.. panels::
+
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['201224842X']
+   - ISBN 13: ['9782012248427']
+   - Editeur: ['Hachette Book Group USA']

@@ -1,0 +1,18 @@
+Treize contes fantastiques québécois - Philippe Aubert de Gaspé
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/5502326-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2892614511']
+   - ISBN 13: None
+   - Editeur: ['XYZ éditeur']

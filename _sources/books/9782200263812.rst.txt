@@ -1,0 +1,18 @@
+Les relations internationales de 1918 a 1939 - Milza
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/972863-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2200263813']
+   - ISBN 13: ['9782200263812']
+   - Editeur: ['Armand Colin']

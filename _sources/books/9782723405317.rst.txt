@@ -1,0 +1,18 @@
+Les vacances de Mafalda - Quino
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/12928042-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2723405311']
+   - ISBN 13: ['9782723405317']
+   - Editeur: ['Glenat']

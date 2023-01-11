@@ -1,0 +1,18 @@
+Lagaffe Merite Des Baffes (Gaston Lagaffe) - Franquin
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/2171217-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2800106581']
+   - ISBN 13: ['9782800106588']
+   - Editeur: ['Editions Dupuis']

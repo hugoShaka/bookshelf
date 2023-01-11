@@ -1,0 +1,18 @@
+Twelfth night, or, What you will - William Shakespeare
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/11431584-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: None
+   - ISBN 13: ['9780199536092']
+   - Editeur: ['Oxford University Press']

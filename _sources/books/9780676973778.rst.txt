@@ -1,0 +1,13 @@
+Life of Pi - Yann Martel
+======================================
+
+.. panels::
+
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0676973779']
+   - ISBN 13: None
+   - Editeur: ['Vintage Canada']

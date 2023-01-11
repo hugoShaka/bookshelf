@@ -1,0 +1,18 @@
+Visual grammar - Christian Leborg
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/812888-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['1568985819']
+   - ISBN 13: ['9781568985817']
+   - Editeur: ['Princeton Architectural Press']

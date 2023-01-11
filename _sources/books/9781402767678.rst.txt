@@ -1,0 +1,18 @@
+Windows on the World complete wine course - Kevin Zraly
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/8126611-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['1402767676', '1402757468']
+   - ISBN 13: ['9781402767678', '9781402757464']
+   - Editeur: ['Sterling']

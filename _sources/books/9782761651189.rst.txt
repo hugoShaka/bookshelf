@@ -1,0 +1,18 @@
+L'avare - Molière
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/10321623-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2761651189']
+   - ISBN 13: ['9782761651189']
+   - Editeur: ['Beauchemin Chenelière éducation']

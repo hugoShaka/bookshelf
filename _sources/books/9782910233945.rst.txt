@@ -1,0 +1,18 @@
+Discours de la servitude volontaire - Étienne de La Boétie
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/7261965-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2910233944']
+   - ISBN 13: None
+   - Editeur: ['Mille et une nuits']

@@ -1,0 +1,13 @@
+Petites Cocottes Fl - José Maréchal
+======================================
+
+.. panels::
+
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2501057910']
+   - ISBN 13: ['9782501057912']
+   - Editeur: ['Marabout']

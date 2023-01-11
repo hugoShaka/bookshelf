@@ -1,0 +1,13 @@
+Plenty - Yotam Ottolenghi
+======================================
+
+.. panels::
+
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2981714309']
+   - ISBN 13: ['9782981714305']
+   - Editeur: ['KO Media']

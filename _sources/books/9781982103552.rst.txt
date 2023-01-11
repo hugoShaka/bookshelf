@@ -1,0 +1,18 @@
+The End of Everything - Katie Mack
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/10515946-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['1982103558']
+   - ISBN 13: ['9781982103552']
+   - Editeur: ['Scribner']

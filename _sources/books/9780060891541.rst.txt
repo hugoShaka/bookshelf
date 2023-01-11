@@ -1,0 +1,18 @@
+On Writing Well - William Zinsser
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/6714373-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0060891548']
+   - ISBN 13: ['9780060891541']
+   - Editeur: ['HarperCollins']

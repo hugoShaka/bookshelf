@@ -1,0 +1,13 @@
+Allemand - Debutant - W Sorg Kremp
+======================================
+
+.. panels::
+
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2253084271']
+   - ISBN 13: ['9782253084273']
+   - Editeur: ['Livre de Poche']

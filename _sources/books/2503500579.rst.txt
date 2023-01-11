@@ -1,0 +1,18 @@
+LA BIBLE PAR LES CARTES 
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/13120903-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2503500579']
+   - ISBN 13: ['9782503500577']
+   - Editeur: ['Brepols']

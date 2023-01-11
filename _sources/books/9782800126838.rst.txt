@@ -1,0 +1,18 @@
+Gaston, tome 3 - Franquin
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/987197-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2800126833']
+   - ISBN 13: ['9782800126838']
+   - Editeur: ['Dupuis']

@@ -1,0 +1,18 @@
+Qu'est-ce Qu'on Mange? Mille Et Une Facons De Varier La Cuisine De Tous Les Jours - Les Cercles de Fermieres du Quebec
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/10502038-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2920908065']
+   - ISBN 13: ['9782920908062']
+   - Editeur: ['Les Cercles De Fermières Du Quebec']

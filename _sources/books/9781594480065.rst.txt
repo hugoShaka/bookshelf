@@ -1,0 +1,18 @@
+Woe Is I - Patricia T. O'Conner
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/872431-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['1594480060']
+   - ISBN 13: ['9781594480065']
+   - Editeur: ['Riverhead Trade']

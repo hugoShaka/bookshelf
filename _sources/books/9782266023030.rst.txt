@@ -1,0 +1,18 @@
+La nuit des temps - René Barjavel
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/979476-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2266023039']
+   - ISBN 13: ['9782266023030']
+   - Editeur: ['Pocket']

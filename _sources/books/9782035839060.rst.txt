@@ -1,0 +1,18 @@
+Candide - Voltaire
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/12736044-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: None
+   - ISBN 13: ['9782035839060']
+   - Editeur: ['Editions Larousse']

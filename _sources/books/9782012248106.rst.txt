@@ -1,0 +1,18 @@
+Monsieur Farfelu - Roger Hargreaves
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/10432562-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2012248101']
+   - ISBN 13: ['9782012248106']
+   - Editeur: ['Hachette Jeunesse']

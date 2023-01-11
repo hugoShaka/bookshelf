@@ -1,0 +1,18 @@
+Histoire populaire du Québec - Jacques Lacoursière
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/3766638-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2894480504', '2894480512', '2894480660', '2894480849']
+   - ISBN 13: None
+   - Editeur: ['Septentrion', 'Diffusion Dimedia']

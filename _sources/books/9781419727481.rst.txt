@@ -1,0 +1,18 @@
+Life Doesn't Frighten Me - Maya Angelou
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/10235677-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['1419727486']
+   - ISBN 13: ['9781419727481']
+   - Editeur: ['Abrams Books for Young Readers']

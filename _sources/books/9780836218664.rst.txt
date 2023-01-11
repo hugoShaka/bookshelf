@@ -1,0 +1,18 @@
+The revenge of the baby-sat - Bill Watterson
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/636146-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0836218663']
+   - ISBN 13: None
+   - Editeur: ['Andrews and McMeel']

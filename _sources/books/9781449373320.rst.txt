@@ -1,0 +1,18 @@
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems - Martin Kleppmann
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/8434671-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['1449373321']
+   - ISBN 13: ['9781449373320']
+   - Editeur: ["O'Reilly Media"]

@@ -1,0 +1,18 @@
+Mon premier dîner végétarien - Alice Hart
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/12708995-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2501069552']
+   - ISBN 13: ['9782501069557']
+   - Editeur: ['Marabout']

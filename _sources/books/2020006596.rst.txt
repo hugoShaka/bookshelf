@@ -1,0 +1,18 @@
+Introduction à l'histoire de notre temps - René Rémond
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/11654442-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2020053640', '202000657X', '2020006588', '2020006596']
+   - ISBN 13: None
+   - Editeur: ['editions du Seuil']

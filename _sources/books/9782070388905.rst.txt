@@ -1,0 +1,13 @@
+Comme un roman - Daniel Pennac
+======================================
+
+.. panels::
+
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2070388905']
+   - ISBN 13: ['9782070388905']
+   - Editeur: ['Gallimard']

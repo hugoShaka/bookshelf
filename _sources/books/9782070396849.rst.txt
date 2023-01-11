@@ -1,0 +1,18 @@
+Chagrin d'école - Daniel Pennac
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/10543773-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: None
+   - ISBN 13: ['9782070396849']
+   - Editeur: ['Gallimard']

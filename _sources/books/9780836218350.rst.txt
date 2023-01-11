@@ -1,0 +1,18 @@
+Yukon ho! - Bill Watterson
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/8231820-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0836218353']
+   - ISBN 13: None
+   - Editeur: ['Andrews and McMeel']

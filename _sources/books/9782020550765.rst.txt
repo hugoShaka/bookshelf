@@ -1,0 +1,13 @@
+Le monde de Sophie - Jostein Gaarder
+======================================
+
+.. panels::
+
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: None
+   - ISBN 13: ['9782020550765']
+   - Editeur: ['Seuil']

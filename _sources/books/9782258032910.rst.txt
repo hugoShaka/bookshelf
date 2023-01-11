@@ -1,0 +1,18 @@
+Le Grand Livre des robots, tome 1. Prélude à Trantor - Isaac Asimov
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/978015-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2258032911']
+   - ISBN 13: ['9782258032910']
+   - Editeur: ['Omnibus']

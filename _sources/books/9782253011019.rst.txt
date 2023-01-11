@@ -1,0 +1,18 @@
+Roi de Fer, Le - Maurice Druon
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/976669-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2253011010']
+   - ISBN 13: ['9782253011019']
+   - Editeur: ['Librairie Generale Francaise']

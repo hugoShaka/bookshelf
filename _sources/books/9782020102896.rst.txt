@@ -1,0 +1,13 @@
+Liaisons Etrangeres - Lurie
+======================================
+
+.. panels::
+
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2020102897']
+   - ISBN 13: ['9782020102896']
+   - Editeur: ['Editions du Seuil']

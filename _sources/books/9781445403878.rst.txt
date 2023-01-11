@@ -1,0 +1,18 @@
+100 best fresh soups 
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/10725841-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['1445403870']
+   - ISBN 13: ['9781445403878']
+   - Editeur: ['Parragon']

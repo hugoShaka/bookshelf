@@ -1,0 +1,18 @@
+Henry IV, Part 1 - William Shakespeare
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/8988468-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0140714561']
+   - ISBN 13: ['9780140714562']
+   - Editeur: ['Penguin Classics']

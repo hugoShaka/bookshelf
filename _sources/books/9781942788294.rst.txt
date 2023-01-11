@@ -1,0 +1,18 @@
+The Phoenix Project - Gene Kim
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/12391318-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: None
+   - ISBN 13: ['9781942788294']
+   - Editeur: ['IT Revolution Press']
