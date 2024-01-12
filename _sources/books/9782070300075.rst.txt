@@ -1,0 +1,18 @@
+Alcools Le Bestaire Vitain Insipendere (Poesie Series) - Guillaume Apollinaire
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/966253-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2070300072']
+   - ISBN 13: ['9782070300075']
+   - Editeur: ['Gallimard']

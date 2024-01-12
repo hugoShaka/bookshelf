@@ -1,0 +1,13 @@
+Guide Un Grand Week-End à Montréal 
+======================================
+
+.. panels::
+
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2017063576']
+   - ISBN 13: ['9782017063575']
+   - Editeur: ['HACHETTE TOURI']

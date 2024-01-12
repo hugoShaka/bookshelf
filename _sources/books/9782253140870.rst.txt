@@ -1,0 +1,18 @@
+L'Ecume Des Jours - Boris Vian
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/7395866-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2253140872']
+   - ISBN 13: ['9782253140870']
+   - Editeur: ['Librairie Generale Francaise']

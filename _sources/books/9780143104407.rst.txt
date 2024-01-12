@@ -1,0 +1,18 @@
+Twelve Angry Men (Penguin Classics) - Reginald Rose
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/111826-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0143104403']
+   - ISBN 13: ['9780143104407']
+   - Editeur: ['Penguin Classics']

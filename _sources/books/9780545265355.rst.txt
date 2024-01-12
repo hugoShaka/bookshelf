@@ -1,0 +1,18 @@
+Hunger Games Trilogy Boxed Set - Suzanne Collins
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/12878880-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: None
+   - ISBN 13: ['9780545265355']
+   - Editeur: ['Scholastic']

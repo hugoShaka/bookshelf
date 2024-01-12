@@ -1,0 +1,18 @@
+The Memory Keeper's Daughter - Kim Edwards
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/8373699-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0143037145']
+   - ISBN 13: ['9780143037149']
+   - Editeur: ['Penguin Books']

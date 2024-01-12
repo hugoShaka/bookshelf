@@ -1,0 +1,18 @@
+Scientific Progress Goes "Boink" - Bill Watterson
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/636153-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: None
+   - ISBN 13: ['9780836218787']
+   - Editeur: ['Andrews McMeel Publishing']

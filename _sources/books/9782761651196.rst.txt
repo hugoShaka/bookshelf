@@ -1,0 +1,18 @@
+Le bourgeois gentilhomme - Molière
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/10438431-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2761651197']
+   - ISBN 13: ['9782761651196']
+   - Editeur: ['Beauchemin Chenelière éducation']

@@ -1,0 +1,13 @@
+Phedre - Jean Racine
+======================================
+
+.. panels::
+
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2038714088']
+   - ISBN 13: ['9782038714081']
+   - Editeur: ['Gallimard']

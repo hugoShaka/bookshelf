@@ -1,0 +1,18 @@
+Le droit à la paresse - Paul Lafargue
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/9329491-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2910233308']
+   - ISBN 13: None
+   - Editeur: ['Mille et une Nuits']

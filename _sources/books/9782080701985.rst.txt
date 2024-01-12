@@ -1,0 +1,18 @@
+L Assommoir, L' - Émile Zola
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/971208-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2080701983']
+   - ISBN 13: ['9782080701985']
+   - Editeur: ['Editions Flammarion']

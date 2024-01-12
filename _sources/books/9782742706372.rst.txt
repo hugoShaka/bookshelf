@@ -1,0 +1,18 @@
+La Grosse Femme d'à côté est enceinte - Michel Tremblay
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/985498-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2742706372']
+   - ISBN 13: ['9782742706372']
+   - Editeur: ['Actes Sud']

@@ -1,0 +1,18 @@
+Outsiders. Etudes de sociologie de la déviance - Howard S. Becker
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/991057-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2864240424']
+   - ISBN 13: ['9782864240426']
+   - Editeur: ['Métailié']

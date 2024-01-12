@@ -1,0 +1,18 @@
+La Vengeance du chat - Philippe Geluck
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/2143309-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2203340290']
+   - ISBN 13: ['9782203340299']
+   - Editeur: ['Casterman']

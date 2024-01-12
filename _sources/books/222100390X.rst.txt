@@ -1,0 +1,13 @@
+Le maître et Marguerite - Михаи́л Афана́сьевич Булга́ков
+======================================
+
+.. panels::
+
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['222100390X']
+   - ISBN 13: None
+   - Editeur: ['Laffont']

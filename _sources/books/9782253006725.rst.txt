@@ -1,0 +1,18 @@
+La Princesse De Cleves - la Fayette
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/976610-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2253006726']
+   - ISBN 13: ['9782253006725']
+   - Editeur: ['Livre De Poche French']

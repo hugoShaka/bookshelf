@@ -1,0 +1,18 @@
+Understanding the Linux Kernel - Daniel Bovet
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/388839-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0596005652']
+   - ISBN 13: ['9780596005658']
+   - Editeur: ["O'Reilly Media, Inc."]

@@ -1,0 +1,13 @@
+Gaston R3. Gare Aux Gaffes Du Gars Gonflé - Franquin
+======================================
+
+.. panels::
+
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: None
+   - ISBN 13: ['9782800103082']
+   - Editeur: ['Editions Dupuis']

@@ -1,0 +1,18 @@
+Question of Blood~Ian Rankin - Ian Rankin
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/499872-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0752877135']
+   - ISBN 13: ['9780752877136']
+   - Editeur: ['McArthur & Company']

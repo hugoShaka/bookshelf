@@ -1,0 +1,18 @@
+The authoritative Calvin and Hobbes - Bill Watterson
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/636127-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0836218647', '0836218221']
+   - ISBN 13: None
+   - Editeur: ['Andrews and McMeel']

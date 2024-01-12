@@ -1,0 +1,13 @@
+Germinal - Émile Zola
+======================================
+
+.. panels::
+
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2070370011']
+   - ISBN 13: ['9782070370016']
+   - Editeur: ['Schoenhofs Foreign Books']

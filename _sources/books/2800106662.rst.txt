@@ -1,0 +1,18 @@
+Yoko Tsuno, tome 1  - Roger Leloup
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/987050-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2800106662']
+   - ISBN 13: ['9782800106663']
+   - Editeur: ['Dupuis']

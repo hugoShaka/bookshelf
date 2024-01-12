@@ -1,0 +1,18 @@
+As you like it - William Shakespeare
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/12496522-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0140714715']
+   - ISBN 13: None
+   - Editeur: ['Penguin Books']

@@ -1,0 +1,18 @@
+Pierre Et Jean - Guy de Maupassant
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/962667-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2011691796']
+   - ISBN 13: ['9782011691798']
+   - Editeur: ['Hachette']

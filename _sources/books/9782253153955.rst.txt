@@ -1,0 +1,18 @@
+Sur Le Bord De La Riviere Piedra, Je Me Suis Assise Et J'ai Pleure - Paulo Coelho
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/977728-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2253153958']
+   - ISBN 13: ['9782253153955']
+   - Editeur: ['Livre de Poche']

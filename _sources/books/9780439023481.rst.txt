@@ -1,0 +1,18 @@
+The Hunger Games - Suzanne Collins
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/12646537-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0439023483']
+   - ISBN 13: ['9780439023481']
+   - Editeur: ['Scholastic Press']

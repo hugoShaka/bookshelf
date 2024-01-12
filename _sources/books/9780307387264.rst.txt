@@ -1,0 +1,18 @@
+El amor en los tiempos del cólera - Gabriel García Márquez
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/2360550-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0307387267']
+   - ISBN 13: ['9780307387264']
+   - Editeur: ['Vintage']

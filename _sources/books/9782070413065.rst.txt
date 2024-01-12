@@ -1,0 +1,18 @@
+Haïku  - Corinne Atlan
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/968684-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2070413063']
+   - ISBN 13: ['9782070413065']
+   - Editeur: ['Gallimard']

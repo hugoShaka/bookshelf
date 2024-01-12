@@ -1,0 +1,18 @@
+Essais Critiques - Roland Barthes
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/963276-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['202005809X']
+   - ISBN 13: ['9782020058094']
+   - Editeur: ['Editions du Seuil']

@@ -1,0 +1,18 @@
+Même pas mort - Jean-Philippe Jaworski
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/12293650-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2070457745']
+   - ISBN 13: ['9782070457748']
+   - Editeur: ['FOLIO', 'GALLIMARD']

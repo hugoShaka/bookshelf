@@ -1,0 +1,18 @@
+Asterix in Britain - René Goscinny
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/973289-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['220500185X']
+   - ISBN 13: ['9782205001853']
+   - Editeur: ['Dargaud,Paris']

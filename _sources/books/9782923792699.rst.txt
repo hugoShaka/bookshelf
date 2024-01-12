@@ -1,0 +1,18 @@
+L'État du Québec 2015 - Institut du Nouveau Monde
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/10432406-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2923792696', '2923792718']
+   - ISBN 13: ['9782923792699', '9782923782705', '9782923792712']
+   - Editeur: ['Institut du Nouveau Monde/Del Busso']

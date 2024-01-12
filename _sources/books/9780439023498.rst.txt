@@ -1,0 +1,18 @@
+Catching Fire - Suzanne Collins
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/12646539-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0439023491']
+   - ISBN 13: ['9780439023498']
+   - Editeur: ['Scholastic Press']

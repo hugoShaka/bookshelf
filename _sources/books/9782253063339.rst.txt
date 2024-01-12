@@ -1,0 +1,18 @@
+Les Fourmis - Werber
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/7091969-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2253063339']
+   - ISBN 13: ['9782253063339']
+   - Editeur: ['Livre de Poche']

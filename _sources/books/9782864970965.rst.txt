@@ -1,0 +1,18 @@
+La Galere d'Obelix - Albert Uderzo
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/991172-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2864970961']
+   - ISBN 13: ['9782864970965']
+   - Editeur: ["Hodder Children's Books"]

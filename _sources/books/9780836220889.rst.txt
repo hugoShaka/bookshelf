@@ -1,0 +1,18 @@
+CALVIN AND HOBBES - Bill Watterson
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/636185-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: None
+   - ISBN 13: ['9780836220889']
+   - Editeur: ['ANDREWS MCMEEL PUBLISHING']

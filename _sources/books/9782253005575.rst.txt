@@ -1,0 +1,18 @@
+La Bête Humaine - Émile Zola
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/976585-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2253005576']
+   - ISBN 13: ['9782253005575']
+   - Editeur: ['Livre de Poche']

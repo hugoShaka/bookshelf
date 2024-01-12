@@ -1,0 +1,18 @@
+Astérix et les Normands - René Goscinny
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/12840747-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2205001906']
+   - ISBN 13: ['9782205001907']
+   - Editeur: ['Dargaud']

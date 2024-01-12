@@ -1,0 +1,18 @@
+L'Odyssee d'Asterix - René Goscinny
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/991162-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['286497004X']
+   - ISBN 13: ['9782864970040']
+   - Editeur: ["Hodder Children's Books"]

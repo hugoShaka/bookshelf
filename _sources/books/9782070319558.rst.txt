@@ -1,0 +1,18 @@
+Poesies Une Saison En Enfer Illuminations - Arthur Rimbaud
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/966624-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2070319555']
+   - ISBN 13: ['9782070319558']
+   - Editeur: ['Gallimard Education']

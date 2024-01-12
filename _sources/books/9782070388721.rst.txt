@@ -1,0 +1,18 @@
+Le Malentendu - Albert Camus
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/12727455-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2070388727']
+   - ISBN 13: ['9782070388721']
+   - Editeur: ['Gallimard']

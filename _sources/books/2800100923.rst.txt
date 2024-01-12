@@ -1,0 +1,13 @@
+Le Geant De La Gaffe (Gaston Lagaffe) - Franquin
+======================================
+
+.. panels::
+
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2800100923']
+   - ISBN 13: ['9782800100920']
+   - Editeur: ['Editions Dupuis']

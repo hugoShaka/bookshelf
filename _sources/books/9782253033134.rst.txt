@@ -1,0 +1,18 @@
+Le Nom De La Rose - Umberto Eco
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/976764-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2253033138']
+   - ISBN 13: ['9782253033134']
+   - Editeur: ['Livre de Poche']

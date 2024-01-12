@@ -1,0 +1,18 @@
+Theorizing the City - Setha, M. Low
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/609073-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0813527201']
+   - ISBN 13: ['9780813527208']
+   - Editeur: ['Rutgers University Press']

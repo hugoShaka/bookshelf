@@ -1,0 +1,18 @@
+The Mythical Man-Month - Frederick P. Brooks
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/10653425-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['0201835959']
+   - ISBN 13: ['9780201835953']
+   - Editeur: ['Addison-Wesley Professional']

@@ -1,0 +1,18 @@
+Apéro 
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/10556702-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2501057333']
+   - ISBN 13: ['9782501057332']
+   - Editeur: ['Marabout']

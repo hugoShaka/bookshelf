@@ -1,0 +1,13 @@
+Risibles amours - Milan Kundera
+======================================
+
+.. panels::
+
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2070377024']
+   - ISBN 13: None
+   - Editeur: ['Gallimard']

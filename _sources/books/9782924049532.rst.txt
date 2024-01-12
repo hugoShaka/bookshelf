@@ -1,0 +1,18 @@
+La petite Russie - Francis Desharnais
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/10848306-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2924049539']
+   - ISBN 13: ['9782924049532']
+   - Editeur: ['POW POW']

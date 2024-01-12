@@ -1,0 +1,18 @@
+Les Aventures de Lucky Luke d'après Morris - Tome 1 - La Belle Province - Gerra Laurent
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/10860637-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['288471135X']
+   - ISBN 13: ['9782884711357']
+   - Editeur: ['LUCKY']

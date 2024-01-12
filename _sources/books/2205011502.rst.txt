@@ -1,0 +1,18 @@
+Astérix chez les Belges - René Goscinny
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/12840741-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2205011502']
+   - ISBN 13: ['9782205011500']
+   - Editeur: ['Dargaud']

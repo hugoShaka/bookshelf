@@ -1,0 +1,18 @@
+Le journal d'un fou - Николай Васильевич Гоголь
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/967873-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2070383105']
+   - ISBN 13: ['9782070383108']
+   - Editeur: ['Gallimard']

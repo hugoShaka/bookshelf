@@ -1,0 +1,18 @@
+La Horde du Contrevent - Alain Damasio
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/6670450-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2070342263']
+   - ISBN 13: ['9782070342266']
+   - Editeur: ['Gallimard']

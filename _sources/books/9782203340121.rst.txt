@@ -1,0 +1,13 @@
+Le Chat - Best of, tome 2  - Philippe Geluck
+======================================
+
+.. panels::
+
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2203340126']
+   - ISBN 13: ['9782203340121']
+   - Editeur: ['Casterman']

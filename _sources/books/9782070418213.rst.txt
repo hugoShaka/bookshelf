@@ -1,0 +1,18 @@
+Contes choisis - Hans Christian Andersen
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/11394935-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2070418219']
+   - ISBN 13: ['9782070418213']
+   - Editeur: ['Gallimard']

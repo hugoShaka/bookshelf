@@ -1,0 +1,18 @@
+Le Menhir d'Or - René Goscinny
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/9820806-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2864973464']
+   - ISBN 13: ['9782864973461']
+   - Editeur: ['ALBERT RENE']

@@ -1,0 +1,18 @@
+Ethique économique et sociale - Christian Arnsperger
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/2159670-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2707139440']
+   - ISBN 13: ['9782707139443']
+   - Editeur: ['La Découverte']

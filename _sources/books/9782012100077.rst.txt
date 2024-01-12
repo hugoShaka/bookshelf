@@ -1,0 +1,18 @@
+Asterix French - René Goscinny
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/2132236-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2012100074']
+   - ISBN 13: ['9782012100077']
+   - Editeur: ['Hachette - Jeune']

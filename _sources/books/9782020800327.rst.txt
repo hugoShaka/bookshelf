@@ -1,0 +1,18 @@
+Le gone du Châaba - Azouz Begag
+======================================
+
+.. panels::
+
+   
+   .. image:: https://covers.openlibrary.org/b/id/12022256-L.jpg
+      :alt: cover
+   
+   ---
+   
+
+   Information:
+   ^^^^^^^^^^^^
+
+   - ISBN 10: ['2020800322']
+   - ISBN 13: None
+   - Editeur: ['Éditions du Seuil']
